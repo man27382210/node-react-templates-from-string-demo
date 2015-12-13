@@ -1,0 +1,19 @@
+{
+  "name": "node-react-templates-from-string",
+  "version": "1.0.0",
+  "description": "",
+  "main": "render.js",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3",
+    "react-templates": "^0.3.2",
+    "require-from-string": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
